@@ -1,0 +1,16 @@
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\DAL.dll.config
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\DAL.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\BO.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.Migrations.first.resources
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
