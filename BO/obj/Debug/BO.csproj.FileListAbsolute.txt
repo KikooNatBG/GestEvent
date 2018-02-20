@@ -1,4 +1,4 @@
-C:\Users\bkrafft2016\Desktop\GestEvent\BO\bin\Debug\BO.dll
-C:\Users\bkrafft2016\Desktop\GestEvent\BO\bin\Debug\BO.pdb
-C:\Users\bkrafft2016\Desktop\GestEvent\BO\obj\Debug\BO.dll
-C:\Users\bkrafft2016\Desktop\GestEvent\BO\obj\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\GestEvent\BO\bin\Debug\BO.dll
+C:\Users\Administrateur\Desktop\GestEvent\BO\bin\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\GestEvent\BO\obj\Debug\BO.dll
+C:\Users\Administrateur\Desktop\GestEvent\BO\obj\Debug\BO.pdb

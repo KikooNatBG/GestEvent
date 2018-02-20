@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\bkrafft2016\Desktop\GestEvent\DAL\bin\Debug\DAL.dll.config
 C:\Users\bkrafft2016\Desktop\GestEvent\DAL\bin\Debug\DAL.dll
 C:\Users\bkrafft2016\Desktop\GestEvent\DAL\bin\Debug\DAL.pdb
@@ -16,3 +17,21 @@ C:\Users\bkrafft2016\Desktop\GestEvent\DAL\obj\Debug\DAL.Migrations.first.resour
 C:\Users\bkrafft2016\Desktop\GestEvent\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
 C:\Users\bkrafft2016\Desktop\GestEvent\DAL\obj\Debug\DAL.Migrations.two.resources
 C:\Users\bkrafft2016\Desktop\GestEvent\DAL\obj\Debug\DAL.Migrations.three.resources
+=======
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\DAL.dll.config
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\DAL.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\BO.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.dll
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.Migrations.first.resources
+C:\Users\Administrateur\Desktop\GestEvent\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+>>>>>>> Nathan
