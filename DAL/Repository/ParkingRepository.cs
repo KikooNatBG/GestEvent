@@ -7,11 +7,8 @@ using System.Threading.Tasks;
 
 namespace DAL.Repository
 {
-    public class EventRepository : GenericRepository<Event>
+    class ParkingRepository 
     {
-        public EventRepository(Context context) : base(context)
-        {
-
-        }
+        
     }
 }
