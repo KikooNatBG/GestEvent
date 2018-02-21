@@ -2,11 +2,3 @@
 \.vs/config/applicationhost\.config
 
 GestEvent/obj/Debug/DesignTimeResolveAssemblyReferencesInput\.cache
-
-DAL/Migrations/
-
-DAL/obj/Debug/DAL\.Migrations\.first\.resources
-
-DAL/obj/Debug/DAL\.Migrations\.three\.resources
-
-DAL/obj/Debug/DAL\.Migrations\.two\.resources
