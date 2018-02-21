@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+<<<<<<< HEAD
+using System.Text;
+using System.Threading.Tasks;
+=======
+>>>>>>> master
 
 namespace DAL.Repository
 {
